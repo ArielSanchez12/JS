@@ -72,7 +72,7 @@ if (carritoCompras.length === 0){
 const mensaje = carritoCompras.length === 0 ? "El carrito est4 vacío" : "El carrito esta con productos"
 console.log(mensaje);
 
-
+//Prueba
 
 
 
